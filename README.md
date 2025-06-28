@@ -11,9 +11,7 @@ Il contient :
 
 ## 🚀 Accès au site en ligne
 
-🔗 [Voir le site hébergé sur GitHub Pages](https://tonpseudo.github.io/presentation-contact)
-
-> *Remplace `tonpseudo` par ton vrai nom d’utilisateur GitHub.*
+🔗 [Voir le site hébergé sur GitHub Pages](https://proanime01.github.io/presentation-contact)
 
 ## 📩 Me contacter
 
